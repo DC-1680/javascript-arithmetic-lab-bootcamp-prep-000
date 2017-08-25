@@ -14,7 +14,7 @@ function divide (a, b) {
   return (a / b);
 }
 
-function inc(n) {
+function inc(451) {
   return (a++);
 }
 
