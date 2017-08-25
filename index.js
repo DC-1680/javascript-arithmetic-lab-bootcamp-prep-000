@@ -19,6 +19,6 @@ function inc(a) {
   return (a++);
 }
 
-function dec(n) {
+function dec(a) {
   return (a--);
 }
